@@ -39,15 +39,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![x]http://g.recordit.co/svBNnTd38T.gif
+![x]http://g.recordit.co/lFhurS7W9C.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
     https://www.youtube.com/watch?v=n_ec3eowFLQ
-    
+    https://www.rapidtables.com/web/css/css-color.html
+`
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 While this first challenge isn’t a technical one, it was one that I encountered in creating the submissions nevertheless; in the time I spent working on the submission, I discovered how much I could improve my time management skills. By organizing myself and dedicating at least 2 hours a day to working on the pre-work or do research pertaining to improving the project/learning some of the technology used, I was able to get more done for a project than ever before. Being much more consistent with the effort I apply rewarded me with being able to complete the pre-work in a timely manner while learning a lot about web development and whether I would like it or not-in short, I absolutely would. Forcing yourself to work on tasks that go beyond what is currently asked of you, in my case that would be school and food delivery, allowed me to reach levels of productivity that I hadn’t seen before. Another challenge I faced when creating the submission was sticking to the actual work to be done and not diving off into every rabbit hole of knowledge that there is on topics related to web development; it’s easy for me to get distracted trying to understand more and more without actually making tangible progress on the project. Overcoming it was a matter of catching and forcing myself to focus on what is currently at hand rather than what I want to learn moving forward. 
